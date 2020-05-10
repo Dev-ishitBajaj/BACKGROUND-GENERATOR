@@ -1,0 +1,10 @@
+body{
+	background-color: rgba(0,0,0,0.5);
+	text-align: center;
+	
+	background:linear-gradient(to right,red,blue);
+}
+h1.hover{
+	transform:scale(2);
+	cursor:pointer;
+}
