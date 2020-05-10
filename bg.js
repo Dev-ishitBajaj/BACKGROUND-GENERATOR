@@ -7,3 +7,4 @@ function changeBackground(){
 }
 color1.addEventListener("input",changeBackground);
 color2.addEventListener("input",changeBackground);
+hello
